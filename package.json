@@ -1,0 +1,14 @@
+{
+  "name": "electricityprediction",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Smart Household Energy Usage & Cost Prediction (AI Platform)",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
