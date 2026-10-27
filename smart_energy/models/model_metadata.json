@@ -1,0 +1,6 @@
+{
+    "best_model": "Polynomial Regression",
+    "target": "Appliances",
+    "feature": "T_out",
+    "note": "UCI Appliances Energy Prediction dataset"
+}
